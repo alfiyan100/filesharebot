@@ -51,7 +51,7 @@ class Data:
 
  • Creator: @Cahcilikx
  • Framework: <a href='https://docs.pyrogram.org'>Pyrogram</a>
- • Source Code: <a href='https://github.com/mrismanaziz/File-Sharing-Man'>File-Sharing-Man v4</a>
+ • Source Code: <a href='https://t.me/cahcilikx'>File-Sharing v4</a>
 
 👨‍💻 Dibuat Oleh </b><a href='https://t.me/RZshopOfc/101'>@RZshopOfc</a>
 """
